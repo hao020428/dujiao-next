@@ -220,6 +220,7 @@ var (
 		"Cache-Control",
 		"X-Requested-With",
 		"X-CSRF-Token",
+		"X-Lang",
 	}
 )
 
