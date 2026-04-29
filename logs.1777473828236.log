@@ -1,0 +1,44 @@
+2026-04-29T14:42:04.865341177Z [inf]  scheduling build on Metal builder "builder-lwbyjv"
+2026-04-29T14:42:06.081088525Z [inf]  [snapshot] received sha256:2bc116a7814b4f1ce124fe14a994f4a35eeb19c2a38cd135331634a4df5e83e6 md5:bc97175bf7940394045982b3e8fb7792
+2026-04-29T14:42:06.081300964Z [inf]  receiving snapshot
+2026-04-29T14:42:06.082093273Z [inf]  analyzing snapshot
+2026-04-29T14:42:06.588890543Z [inf]  uploading snapshot
+2026-04-29T14:42:06.607300242Z [inf]  unpacking archive
+2026-04-29T14:42:07.067514805Z [inf]  using build driver railpack-v0.23.0
+2026-04-29T14:42:07.649556241Z [inf]                     
+2026-04-29T14:42:07.649579737Z [inf]  [38;2;125;86;243m╭─────────────────╮[0m
+2026-04-29T14:42:07.649581479Z [inf]  [38;2;125;86;243m│[0m Railpack 0.23.0 [38;2;125;86;243m│[0m
+2026-04-29T14:42:07.649581970Z [inf]  [38;2;125;86;243m╰─────────────────╯[0m
+2026-04-29T14:42:07.649582441Z [inf]  
+2026-04-29T14:42:07.649583983Z [inf]    [33m⚠ Script start.sh not found[0m
+2026-04-29T14:42:07.649584514Z [inf]    [1;31m✖ Railpack could not determine how to build the app.[0m
+2026-04-29T14:42:07.649584834Z [inf]    
+2026-04-29T14:42:07.649585786Z [inf]    The following languages are supported:
+2026-04-29T14:42:07.649586136Z [inf]    - Php
+2026-04-29T14:42:07.649587148Z [inf]    - Golang
+2026-04-29T14:42:07.649587398Z [inf]    - Java
+2026-04-29T14:42:07.649587599Z [inf]    - Rust
+2026-04-29T14:42:07.649587809Z [inf]    - Ruby
+2026-04-29T14:42:07.649588019Z [inf]    - Elixir
+2026-04-29T14:42:07.649588320Z [inf]    - Python
+2026-04-29T14:42:07.649589792Z [inf]    - Deno
+2026-04-29T14:42:07.649590042Z [inf]    - Dotnet
+2026-04-29T14:42:07.649593127Z [inf]    - Node
+2026-04-29T14:42:07.649593437Z [inf]    - Gleam
+2026-04-29T14:42:07.649593748Z [inf]    - Cpp
+2026-04-29T14:42:07.649594038Z [inf]    - Staticfile
+2026-04-29T14:42:07.649594258Z [inf]    - Shell
+2026-04-29T14:42:07.649594469Z [inf]    
+2026-04-29T14:42:07.649595981Z [inf]    The app contents that Railpack analyzed contains:
+2026-04-29T14:42:07.649596392Z [inf]    
+2026-04-29T14:42:07.649596592Z [inf]    ./
+2026-04-29T14:42:07.649596832Z [inf]    ├── dujiao-next/
+2026-04-29T14:42:07.649597103Z [inf]    ├── dujiao-next-admin/
+2026-04-29T14:42:07.649598375Z [inf]    ├── dujiao-next-document/
+2026-04-29T14:42:07.649598625Z [inf]    ├── dujiao-next-user/
+2026-04-29T14:42:07.649598865Z [inf]    └── logs.1777389951755.log
+2026-04-29T14:42:07.649599306Z [inf]    
+2026-04-29T14:42:07.649599526Z [inf]    Check out the docs for more information: https://railpack.com
+2026-04-29T14:42:07.649601439Z [inf]  
+2026-04-29T14:42:07.649601720Z [inf]  
+2026-04-29T14:42:07.652036555Z [err]  railpack process exited with an error
